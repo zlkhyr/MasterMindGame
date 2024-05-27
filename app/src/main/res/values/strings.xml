@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectPBM</string>
+    <string name="new_game">New Game</string>
+    <string name="places_clue_format">%sWP</string>
+    <string name="colors_clue_format">%sW</string>
+    <string name="win_msg">Kamu Berhasil!</string>
+    <string name="lost_msg">Kamu Gagal!</string>
+    <string name="incomplete_row">Barisnya belum lengkap!</string>
+</resources>
